@@ -1,0 +1,16 @@
+```plaintext
+torch==2.2.1
+torchvision
+torchaudio
+transformers
+sentence_transformers
+langchain
+llama-index==0.7.21
+llama-hub==0.0.19
+bitsandbytes
+pydantic
+einops
+accelerate
+scipy
+llama-index-core
+llama-index-legacy
